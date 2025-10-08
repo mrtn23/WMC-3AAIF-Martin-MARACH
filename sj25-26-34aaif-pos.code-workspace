@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../POS/sj25-26-34aaif-pos"
+		},
+		{
+			"path": "../../POS/POS-3AAIF-Martin-MARACH"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WMC-3AAIF-Martin-MARACH"
+	}
+}
