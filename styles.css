@@ -1,0 +1,21 @@
+body{
+    font-family: Roboto;
+    
+}
+
+@font-face {
+        font-family: Roboto;
+        src: url('/Users/martin/Downloads/Roboto/Roboto-Italic-VariableFont_wdth,wght.ttf') format('ttf');
+    font-weight: bold;
+}
+
+[class*="fuss-link"] {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+}
+
+.kasten p .text{
+    line-height: 1.5;
+}
